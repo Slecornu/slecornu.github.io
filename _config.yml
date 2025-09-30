@@ -58,34 +58,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Sam Le Cornu"
+  avatar: "/assets/images/bio-photo.jpeg"
+  bio: "Android & Video Game Developer."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Itch"
+      icon: "fab fa-itch-io"
+      url: "https://slecornu.itch.io/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: fa-brands fa-github"
+      url: "https://github.com/Slecornu"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Itch"
+      icon: "fab fa-itch-io"
+      url: "https://slecornu.itch.io/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: fa-brands fa-github"
+      url: "https://github.com/Slecornu"
 
 defaults:
   # _posts
