@@ -61,6 +61,7 @@ author:
   name: "Sam Le Cornu"
   avatar: "/assets/images/bio-photo.jpeg"
   bio: "Android & Video Game Developer."
+  location: "London"
   links:
     - label: "Itch"
       icon: "fab fa-itch-io"
